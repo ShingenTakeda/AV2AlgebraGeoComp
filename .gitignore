@@ -1,0 +1,6 @@
+bin
+.vscode
+.config
+obj
+libs
+app.manifest
